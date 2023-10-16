@@ -10,7 +10,8 @@
             <tr>
                 <th>
                     <th colspan="3">
-                        Form Input Data Mata Kuliah
+                 Form Input Data Mata Kuliah
+
 </th>
 </tr>
 
